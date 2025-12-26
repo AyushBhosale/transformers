@@ -1,4 +1,3 @@
-Here is a professional README.md file tailored for your project. It highlights the "built from scratch" nature of the architecture, which is a strong portfolio signal for a Research Engineer role.
 Transformer from Scratch: Reverse-Sort Task
 
 A pure PyTorch implementation of the Transformer architecture built from the ground up to solve a sequence manipulation task. This project demonstrates a deep understanding of the inner workings of Attention mechanisms, Positional Encodings, and Encoder-Decoder stacks by implementing them manually rather than relying on high-level nn.Transformer abstractions.
