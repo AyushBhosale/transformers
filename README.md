@@ -37,7 +37,7 @@ Model Specs
 📂 File Structure
 Bash
 
-reverse_sort_transformer.py  # The main script containing model classes, data generation, and training loop
+reverse_sort_transformer.ipynb  # The main script containing model classes, data generation, and training loop
 
 🚀 Getting Started
 Prerequisites
