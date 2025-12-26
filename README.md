@@ -1,6 +1,6 @@
 Transformer from Scratch: Reverse-Sort Task
 
-A pure PyTorch implementation of the Transformer architecture built from the ground up to solve a sequence manipulation task. This project demonstrates a deep understanding of the inner workings of Attention mechanisms, Positional Encodings, and Encoder-Decoder stacks by implementing them manually rather than relying on high-level nn.Transformer abstractions.
+A pure PyTorch implementation of the Transformer architecture built from the ground up to solve a sequence manipulation task. This project demonstrates a deep understanding of the inner workings of Attention mechanisms, Positional Encodings, and Encoder-Decoder stacks by implementing them manually rather than relying on high-level nn.Transformer abstractions. <br>
 📌 Project Overview
 
 The goal of this project is to train a Transformer to perform two simultaneous algorithmic tasks on a sequence of digits:
